@@ -11,6 +11,7 @@ Added Gemini,wikidata,wikipidia,weatherstack and integrated to our agent,week2,3
 
 #Updated Date:05/04/2026
 File:Budget_Logic.ipynb(week 5),food_travel1.ipynb(week 4),datasets(travel cost.csv,Top Indian Places to Visit.csv)
+# Changes
 Budget Logic & Dataset Integration
 
 * Built a dynamic budget engine using datasets for stay and attractions.
