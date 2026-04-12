@@ -26,3 +26,12 @@ Gemini Integration & Weather API Fix
 
 * Refactored Gemini to act as a reasoning engine instead of data generator.
 * Fixed Weather API issues and ensured reliable data handling with fallbacks.
+
+# Updated Date:12/04/2026
+File:testing.ipynb
+# Changes
+Integrated Travel Agent (Testing Phase)
+
+* Combined all parts (budget, itinerary, datasets, APIs) into one working system.
+* User can enter details and get a complete travel plan with cost.
+* Created a basic version to test everything together before improving further.
